@@ -1,0 +1,6 @@
+﻿  Moc'ing  Include\qte.h  into  Source\moc_qte.cpp
+  Compiling  UI\interface.ui  into  Include\ui_interface.h
+  main.cpp
+  moc_qte.cpp
+  qtemainwindow.cpp
+  AppTinyMesh.vcxproj -> D:\Cours\M2 2026-2027\ModGeo\TinyMesh\Out\x64\Debug\AppTinyMesh.exe
